@@ -30,4 +30,10 @@ npm install react-native-screens react-native-safe-area-context
 npm install react-native-gesture-handler react-native-reanimated
 npm install @react-native-community/masked-view
 
+3️⃣ Jalankan aplikasi:
+```bash
+npx react-native run-android
+
+
+
 
