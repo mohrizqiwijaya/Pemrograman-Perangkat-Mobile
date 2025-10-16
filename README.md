@@ -1,41 +1,40 @@
-# 📱 Pemrograman Berbasis Mobile
+# 📱 Pemrograman Perangkat Mobile
 
-**Nama:** R. Tb,. Moh. Rizqi Wijaya  
+**Nama:** R. Tb. Moh. Rizqi Wijaya  
 **Kelas:** TI23G  
-**Mata Kuliah:** Pemrograman Berbasis Mobile  
+**Mata Kuliah:** Pemrograman Perangkat Mobile
 
 ---
 
 ## 🧾 Deskripsi
-Repositori ini dibuat untuk menyimpan tugas, latihan, dan proyek yang dikerjakan selama mata kuliah **Pemrograman Berbasis Mobile**.  
-Fokus utama adalah pengembangan aplikasi berbasis **Android** menggunakan **Java** atau **Kotlin**, serta memahami konsep dasar pemrograman mobile modern.
+Repositori ini berisi tugas dan proyek yang dikembangkan selama mata kuliah **Pemrograman Perangkat Mobile**.  
+Fokus utama mata kuliah ini adalah membangun aplikasi **mobile multiplatform (Android & iOS)** menggunakan **React Native** dengan pendekatan *cross-platform development*.
 
 ---
 
-## 🧩 Teknologi yang Digunakan
-- 🧱 **Android Studio** — IDE utama pengembangan aplikasi mobile  
-- ☕ **Java / Kotlin** — Bahasa pemrograman utama  
-- 🎨 **XML** — Untuk desain tampilan antarmuka (UI)  
-- 🗄️ **SQLite / Firebase** — Untuk penyimpanan data  
+## ⚙️ Teknologi yang Digunakan
+- ⚛️ **React Native** — Framework utama untuk pengembangan aplikasi mobile  
+- 💻 **JavaScript / TypeScript** — Bahasa pemrograman  
+- 🎨 **Expo / React Native CLI** — Environment untuk build dan testing  
+- 🗄️ **Firebase / AsyncStorage** — Penyimpanan data  
+- 🧩 **Node.js & npm** — Manajemen dependensi proyek  
 
 ---
 
 ## 🎯 Tujuan Pembelajaran
-- Memahami struktur proyek Android  
-- Mempelajari komponen dasar UI/UX di Android  
-- Mengimplementasikan event handling dan lifecycle activity  
-- Menghubungkan aplikasi dengan database lokal dan cloud  
-- Mengembangkan aplikasi mobile yang interaktif dan efisien  
+- Memahami dasar pengembangan aplikasi mobile berbasis **React Native**  
+- Mempelajari struktur dan lifecycle komponen React  
+- Membuat tampilan UI responsif dan interaktif  
+- Mengintegrasikan aplikasi dengan API dan database  
+- Membangun aplikasi mobile yang dapat dijalankan di Android maupun iOS  
 
 ---
 
-
 ## ✨ Catatan
-Proyek ini dikembangkan untuk memenuhi tugas dan penilaian mata kuliah **Pemrograman Berbasis Mobile**  
-pada kelas **TI23G**, oleh **R. Tb. Moh. Rizqi Wijaya**.
+Proyek ini dibuat sebagai bagian dari penilaian mata kuliah **Pemrograman Perangkat Mobile (React Native)**  
+di kelas **TI23G**, oleh **Rizqi Wijaya**.
 
 ---
 
 🖤 *Terima kasih telah mengunjungi repositori ini!*
-
-
+****
